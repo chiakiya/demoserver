@@ -1,2 +1,2 @@
-# lotus-web
-Lotus web
+# lotus-server
+Lotus server
